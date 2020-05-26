@@ -1,0 +1,333 @@
+<PRINCIPIOS-ACTIVOS>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Aceclofenaco</Nombre>
+		<pesoMolecular>354.2</pesoMolecular>
+		<formulaMolecular>C16 H13 Cl2 N O4</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Acetilcisteina</Nombre>
+		<pesoMolecular>163.2</pesoMolecular>
+		<formulaMolecular>C5 H9 N O3 S</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Aciclovir</Nombre>
+		<pesoMolecular>225.2</pesoMolecular>
+		<formulaMolecular>C8 H11 N5 O3</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Acido acetilsalicilico</Nombre>
+		<pesoMolecular>180.16</pesoMolecular>
+		<formulaMolecular>C9 H8 O4</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Acido ascorbico</Nombre>
+		<pesoMolecular>176.12</pesoMolecular>
+		<formulaMolecular>C6 H8 O6</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Acido clavulanico</Nombre>
+		<pesoMolecular>199.16</pesoMolecular>
+		<formulaMolecular>C8 H9 N O5</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Amfotericina B</Nombre>
+		<pesoMolecular>924.1</pesoMolecular>
+		<formulaMolecular>C47 H73 N O17</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Amoxicilina</Nombre>
+		<pesoMolecular>365.4</pesoMolecular>
+		<formulaMolecular>C16 H19 N3 O5 S</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Benzocaina</Nombre>
+		<pesoMolecular>165.19</pesoMolecular>
+		<formulaMolecular>C9 H11 N O2</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Besilato De Cisatracurio</Nombre>
+		<pesoMolecular>1243.5</pesoMolecular>
+		<formulaMolecular>C65 H82 N2 O18 S2</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Cafeina</Nombre>
+		<pesoMolecular>194.19</pesoMolecular>
+		<formulaMolecular>C8 H10 N4 O2</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Candesartan</Nombre>
+		<pesoMolecular>440.5</pesoMolecular>
+		<formulaMolecular>C24 H20 N6 O3</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Carvedilol</Nombre>
+		<pesoMolecular>406.474</pesoMolecular>
+		<formulaMolecular>C24 H26 N2 O4</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Centella</Nombre>
+		<pesoMolecular>76.09</pesoMolecular>
+		<formulaMolecular>C3 H8 O2</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Cetrimonio</Nombre>
+		<pesoMolecular>364.4</pesoMolecular>
+		<formulaMolecular>C19 H42 BrN</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Ciclobenzaprina</Nombre>
+		<pesoMolecular>275.4</pesoMolecular>
+		<formulaMolecular>C20 H21 N</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Clindamicina</Nombre>
+		<pesoMolecular>425</pesoMolecular>
+		<formulaMolecular>C18 H33 Cl N2 O5 S</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Cloperastina</Nombre>
+		<pesoMolecular>329.9</pesoMolecular>
+		<formulaMolecular>C20 H24 Cl N O</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Clorfenamina</Nombre>
+		<pesoMolecular>274.79</pesoMolecular>
+		<formulaMolecular>C16 H19 Cl N2</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Clorhexidina</Nombre>
+		<pesoMolecular>505.447</pesoMolecular>
+		<formulaMolecular>C22 H30 N10 Cl2</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Clorocarvacrol</Nombre>
+		<pesoMolecular>184.66</pesoMolecular>
+		<formulaMolecular>C10 H13 Cl O</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Codeina</Nombre>
+		<pesoMolecular>299.364</pesoMolecular>
+		<formulaMolecular>C18 H21 N O3</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Dexketopofreno</Nombre>
+		<pesoMolecular>254.28</pesoMolecular>
+		<formulaMolecular>C16 H14 O3</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Dextrometorfano</Nombre>
+		<pesoMolecular>271.4</pesoMolecular>
+		<formulaMolecular>C18 H25 N O</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Diazepan</Nombre>
+		<pesoMolecular>284.7</pesoMolecular>
+		<formulaMolecular>C16 H13 N2 Cl O</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Difenhidramina</Nombre>
+		<pesoMolecular>255.35</pesoMolecular>
+		<formulaMolecular>C17 H21 N O</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Dimenhidrinato</Nombre>
+		<pesoMolecular>470</pesoMolecular>
+		<formulaMolecular>C24 H28 Cl N5 O3</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Diprofilina</Nombre>
+		<pesoMolecular>254.24</pesoMolecular>
+		<formulaMolecular>C10 H14 N4 O4</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Drospirenona</Nombre>
+		<pesoMolecular>366.5</pesoMolecular>
+		<formulaMolecular>C24 H30 O3</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Elbasvir</Nombre>
+		<pesoMolecular>882.015</pesoMolecular>
+		<formulaMolecular>C49 H55 N9 O7</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Ergotamina</Nombre>
+		<pesoMolecular>581.7</pesoMolecular>
+		<formulaMolecular>C33 H35 N5 O5</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Etinilestradiol</Nombre>
+		<pesoMolecular>296.4</pesoMolecular>
+		<formulaMolecular>C20 H24 O2</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Fenilefrina</Nombre>
+		<pesoMolecular>167.2</pesoMolecular>
+		<formulaMolecular>C9 H13 N O2</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Fluocinolona</Nombre>
+		<pesoMolecular>452.488</pesoMolecular>
+		<formulaMolecular>C24 H30 F2 O6</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Gramicidina</Nombre>
+		<pesoMolecular>452.488</pesoMolecular>
+		<formulaMolecular>C99 H140 N20 O17</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Grazoprevir</Nombre>
+		<pesoMolecular>766.9</pesoMolecular>
+		<formulaMolecular>C38 H50 N6 O9 S</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Guaifenesina</Nombre>
+		<pesoMolecular>198.22</pesoMolecular>
+		<formulaMolecular>C10 H14 O4</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Hidroclorotiazida</Nombre>
+		<pesoMolecular>297.7</pesoMolecular>
+		<formulaMolecular>C7 H8 Cl N3 O4 S2</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Ibuprofeno</Nombre>
+		<pesoMolecular>206.29</pesoMolecular>
+		<formulaMolecular>C13 H18 O2</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Ictamol</Nombre>
+		<pesoMolecular>588</pesoMolecular>
+		<formulaMolecular>C28 H36 S5 O6 (NH4)2</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Ivabradina</Nombre>
+		<pesoMolecular>468.585</pesoMolecular>
+		<formulaMolecular>C27 H36 N2 O5</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Levocetrizina</Nombre>
+		<pesoMolecular>388.9</pesoMolecular>
+		<formulaMolecular>C21 H25 Cl N2 O3</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Lidocaina</Nombre>
+		<pesoMolecular>270.8</pesoMolecular>
+		<formulaMolecular>C14 H23 Cl N2 O</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Manidipino</Nombre>
+		<pesoMolecular>610.7</pesoMolecular>
+		<formulaMolecular>C35 H38 N4 O6</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Mentol</Nombre>
+		<pesoMolecular>156.26</pesoMolecular>
+		<formulaMolecular>C10 H20 O</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Metamizol</Nombre>
+		<pesoMolecular>311.36</pesoMolecular>
+		<formulaMolecular>C13 H17 N3 O4 S</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Neomicina</Nombre>
+		<pesoMolecular>614.644</pesoMolecular>
+		<formulaMolecular>C23 H46 N6 O13</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Olmesartan</Nombre>
+		<pesoMolecular>446.5</pesoMolecular>
+		<formulaMolecular>C24 H26 N6 O3</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Omeprazol</Nombre>
+		<pesoMolecular>345.4</pesoMolecular>
+		<formulaMolecular>C17 H19 N3 O3 S</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Oximetazolina</Nombre>
+		<pesoMolecular>260.375</pesoMolecular>
+		<formulaMolecular>C16 H24 N2 O</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Paracetamol</Nombre>
+		<pesoMolecular>151.16</pesoMolecular>
+		<formulaMolecular>C8 H9 N O2</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Remifentanilo</Nombre>
+		<pesoMolecular>376.4</pesoMolecular>
+		<formulaMolecular>C20 H28 N2 O5</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Tirotricina</Nombre>
+		<pesoMolecular>1228.46</pesoMolecular>
+		<formulaMolecular>C65 H85 N11 O13</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Tramadol</Nombre>
+		<pesoMolecular>263.38</pesoMolecular>
+		<formulaMolecular>C16 H25 N O2</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+	<PRINCIPIO-ACTIVO>
+		<Nombre>Valsartan</Nombre>
+		<pesoMolecular>435.5</pesoMolecular>
+		<formulaMolecular>C24 H29 N5 O3</formulaMolecular>
+	</PRINCIPIO-ACTIVO>
+
+</PRINCIPIOS-ACTIVOS>

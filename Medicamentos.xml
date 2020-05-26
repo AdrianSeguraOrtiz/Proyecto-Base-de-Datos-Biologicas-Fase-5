@@ -1,0 +1,600 @@
+<MEDICAMENTOS>
+
+	<MEDICAMENTO>
+		<codigoNacional>600000</codigoNacional>
+		<nombre>Amoxicilnica Clav</nombre>
+		<viaAdministracion>Intravenosa</viaAdministracion>
+		<presentacion>Viales</presentacion>
+		<formato>500/50mg x100 viales</formato>
+		<claseMedicamento>Antibiotico sistemico</claseMedicamento>
+		<indicaciones>Tratar ciertas infecciones</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>8.24</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>603029</codigoNacional>
+		<nombre>Zaldiar</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>37.5/325mg x100 comp</formato>
+		<claseMedicamento>Analgesico</claseMedicamento>
+		<indicaciones>Aliviar el dolor</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>3.34</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>603173</codigoNacional>
+		<nombre>Parapres Forte</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>32/25 mg 300 comp</formato>
+		<claseMedicamento>Diuretico y Antihipertensivo</claseMedicamento>
+		<indicaciones>Aumenta la cantidad de orina , ayudando a regular la presion sanguinea</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>20.95</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>604306</codigoNacional>
+		<nombre>Nolotil</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Ampollas</presentacion>
+		<formato>5ml x 100 ampollas</formato>
+		<claseMedicamento>Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Disminuye el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>2.14</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>609909</codigoNacional>
+		<nombre>Blastoestimulina</nombre>
+		<viaAdministracion>Topica</viaAdministracion>
+		<presentacion>Pomada</presentacion>
+		<formato>150g</formato>
+		<claseMedicamento>Cicatrizante</claseMedicamento>
+		<indicaciones>Favorece la cicatrizacion de las heridas</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>10.33</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>619510</codigoNacional>
+		<nombre>Cristalmina</nombre>
+		<viaAdministracion>Topica</viaAdministracion>
+		<presentacion>Solucion topica</presentacion>
+		<formato>125 ml x 30 frascos</formato>
+		<claseMedicamento>Antiseptico</claseMedicamento>
+		<indicaciones>Prevenir y tratar infecciones de la piel y heridas</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>10.75</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>650097</codigoNacional>
+		<nombre>Dolviran</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>20 comp</formato>
+		<claseMedicamento>Analgesico, Antiinflamatrio, Antipiretico</claseMedicamento>
+		<indicaciones>Disminuye el dolor, la inflamacion y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>1.74</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>650427</codigoNacional>
+		<nombre>Acetilcisteina</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>30 sobres</formato>
+		<claseMedicamento>Expectorante y/o Mucolitico</claseMedicamento>
+		<indicaciones>Facilita la expulsion de moco desde las vias respiratorias</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>5.15</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>650902</codigoNacional>
+		<nombre>Anticatarral</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>20 sobres</formato>
+		<claseMedicamento>Antigripal, Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>9.99</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>650999</codigoNacional>
+		<nombre>Co Vals Forte</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>160/25 mg 28 comp</formato>
+		<claseMedicamento>Diuretico y Antihipertensivo</claseMedicamento>
+		<indicaciones>Aumenta la cantidad de orina , ayudando a regular la presion sanguinea</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>11.99</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>651877</codigoNacional>
+		<nombre>Aspirina C</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos efervescentes</presentacion>
+		<formato>(400 mg / 240 mg) x 20 comp</formato>
+		<claseMedicamento>Analgesico, Antiinflamatorio y Antipiretico</claseMedicamento>
+		<indicaciones>Disminuye el dolor, la inflamacion y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>5.36</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>651943</codigoNacional>
+		<nombre>Flodermol</nombre>
+		<viaAdministracion>Topica</viaAdministracion>
+		<presentacion>Pomada</presentacion>
+		<formato>Pomada 60 g</formato>
+		<claseMedicamento>Corticoide topico y antiinfeccioso</claseMedicamento>
+		<indicaciones>Tratar las inflamaciones de la piel y para combatir las infecciones</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>12.3</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>652319</codigoNacional>
+		<nombre>Aciclovir</nombre>
+		<viaAdministracion>Topica</viaAdministracion>
+		<presentacion>Crema</presentacion>
+		<formato>Crema 15 g</formato>
+		<claseMedicamento>Antiviral topico</claseMedicamento>
+		<indicaciones>Tratar infecciones producidas por virus</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>3.43</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>653899</codigoNacional>
+		<nombre>Bucometasana</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>30 comp</formato>
+		<claseMedicamento>Antiinfeccioso faringeo</claseMedicamento>
+		<indicaciones>Tratar infecciones de la garganta</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>7.35</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>654139</codigoNacional>
+		<nombre>OpenVas Plus</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos recubiertos</presentacion>
+		<formato>20/25 mg 28 comp</formato>
+		<claseMedicamento>Diuretico y Antihipertensivo</claseMedicamento>
+		<indicaciones>Aumenta la cantidad de orina , ayudando a regular la presion sanguinea</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>10.1</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>655449</codigoNacional>
+		<nombre>Paidoterin</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Jarabe</presentacion>
+		<formato>100ml</formato>
+		<claseMedicamento>Descongestionante nasal</claseMedicamento>
+		<indicaciones>Alivar la congestion nasal</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>5.09</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>655917</codigoNacional>
+		<nombre>Yasminelle</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>3 mg x comp</formato>
+		<claseMedicamento>Anticonceptivo</claseMedicamento>
+		<indicaciones>Evitar quedar embarazada</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>17.95</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>656011</codigoNacional>
+		<nombre>Fricold</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>10 sobres</formato>
+		<claseMedicamento>Antigripal, Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>6.95</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>659700</codigoNacional>
+		<nombre>Intergrip</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>10 sobres</formato>
+		<claseMedicamento>Antigripal, Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>8.51</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>659725</codigoNacional>
+		<nombre>Cinfamar</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>50/50 mg 4 comp</formato>
+		<claseMedicamento>Mareo cinetico</claseMedicamento>
+		<indicaciones>Evitar nauseas y vomitos producidos por el movimiento</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>4.33</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>659730</codigoNacional>
+		<nombre>Valium</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>2 mg x 30 comp</formato>
+		<claseMedicamento>Ansiolitico e hipnotico</claseMedicamento>
+		<indicaciones>Aliviar el nerviosismo o ansiedad y facilitar el sueno</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>1.5</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>659777</codigoNacional>
+		<nombre>Aceclofenaco</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>100 mg x 20 comp</formato>
+		<claseMedicamento>Analgesico, Antiinflamatorio, Antipiretico</claseMedicamento>
+		<indicaciones>Disminuye el dolor, la inflamacion y la fiebre</indicaciones>
+		<comercializacion>0</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>2.83</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>660286</codigoNacional>
+		<nombre>Fluimocil Forte</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos efervescentes</presentacion>
+		<formato>500/200mg x12 comp</formato>
+		<claseMedicamento>Antigripal, Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>8.5</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>660782</codigoNacional>
+		<nombre>Dalsy</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Suspension</presentacion>
+		<formato>Suspension 150 ml</formato>
+		<claseMedicamento>Analgesico, Antiinflamatorio, Antipiretico</claseMedicamento>
+		<indicaciones>Disminuye el dolor, la inflamacion y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>7.7</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>664347</codigoNacional>
+		<nombre>Respibien antialergico</nombre>
+		<viaAdministracion>Nasal</viaAdministracion>
+		<presentacion>Nebulizador Nasal</presentacion>
+		<formato>Recipiente 15 ml</formato>
+		<claseMedicamento>Descongestionante nasal</claseMedicamento>
+		<indicaciones>Alivia la congestion de la nariz facilitando la respiracion</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>6.1</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>669887</codigoNacional>
+		<nombre>Futox</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Jarabe</presentacion>
+		<formato>200ml</formato>
+		<claseMedicamento>Antitusigeno</claseMedicamento>
+		<indicaciones>Calmar la tos</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>6.8</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>672527</codigoNacional>
+		<nombre>Ultiva</nombre>
+		<viaAdministracion>Intravenosa</viaAdministracion>
+		<presentacion>Viales</presentacion>
+		<formato>3 ml x 5 viales</formato>
+		<claseMedicamento>Anestesico general</claseMedicamento>
+		<indicaciones>Anestesiar en intervenciones quirurjicas</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>48.24</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>677276</codigoNacional>
+		<nombre>Manidipino</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>20 mg x 28 comp</formato>
+		<claseMedicamento>Vasodilatador coronario, Antihipertensivo</claseMedicamento>
+		<indicaciones>Dilatar los vasos sanguineos</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>14.17</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>677765</codigoNacional>
+		<nombre>Nimbex</nombre>
+		<viaAdministracion>Intravenosa</viaAdministracion>
+		<presentacion>Ampollas</presentacion>
+		<formato>2mg x 5 ampollas</formato>
+		<claseMedicamento>Curares endovenosos</claseMedicamento>
+		<indicaciones>Facilita intubaciones y relaja los musculos en anestesias generales</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>237.71</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>681726</codigoNacional>
+		<nombre>Abelcet</nombre>
+		<viaAdministracion>Intravenosa</viaAdministracion>
+		<presentacion>Viales</presentacion>
+		<formato>10 viales 20 ml</formato>
+		<claseMedicamento>Antibiotico</claseMedicamento>
+		<indicaciones>Tratar infecciones producidas por hongos</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>516.16</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>681817</codigoNacional>
+		<nombre>Frenadol Forte</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>10 sobres</formato>
+		<claseMedicamento>Analgesico, Antigripal y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>4.95</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>702151</codigoNacional>
+		<nombre>Couldina con paracetamol</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos efervescentes</presentacion>
+		<formato>650 mg x 20 comp</formato>
+		<claseMedicamento>Antigripal</claseMedicamento>
+		<indicaciones>Aliviar la gripe disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>10.51</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>703223</codigoNacional>
+		<nombre>Alergical</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Jarabe</presentacion>
+		<formato>150ml</formato>
+		<claseMedicamento>Antigripal, Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>7.34</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>711033</codigoNacional>
+		<nombre>Enanplus</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos recubiertos</presentacion>
+		<formato>(75mg / 25mg) x 20 comp</formato>
+		<claseMedicamento>Analgesico</claseMedicamento>
+		<indicaciones>Aliviar el dolor</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>7.1</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>712072</codigoNacional>
+		<nombre>Zepatier</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>(50mg / 100 mg) x 28 comp</formato>
+		<claseMedicamento>Antiviral</claseMedicamento>
+		<indicaciones>Tratar la infeccion producida por el virus de la hepatitis C</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>220</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>714852</codigoNacional>
+		<nombre>Carevalan</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos recubiertos</presentacion>
+		<formato>(12.5mg / 5mg) x 56 comp</formato>
+		<claseMedicamento>Antianginoso y antiarritmico</claseMedicamento>
+		<indicaciones>Previene la angina de pecho y regula el ritmo del corazon</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>15.87</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>741512</codigoNacional>
+		<nombre>Algidol</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>(650 mg / 10 mg / 500 mg) x 12 sobres</formato>
+		<claseMedicamento>Analgesico y antipiretico</claseMedicamento>
+		<indicaciones>Aliviar el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>3.12</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>766824</codigoNacional>
+		<nombre>Hadensa</nombre>
+		<viaAdministracion>Rectal</viaAdministracion>
+		<presentacion>Supositorios</presentacion>
+		<formato>10 supositorios</formato>
+		<claseMedicamento>Antihemorroidal</claseMedicamento>
+		<indicaciones>Curar las hemorroides</indicaciones>
+		<comercializacion>0</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>5.76</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>825992</codigoNacional>
+		<nombre>Dolorac</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>600mg x 20 sob</formato>
+		<claseMedicamento>Analgesico, Antiinflamatorio, Antipiretico y Antirreumetico</claseMedicamento>
+		<indicaciones>Disminuye el dolor, la inflamacion, la fiebre y reuma</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>7.24</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>839720</codigoNacional>
+		<nombre>Gelocatil</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>10 Sobres</formato>
+		<claseMedicamento>Antigripal, Antianalgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe y para disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>4.95</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>851568</codigoNacional>
+		<nombre>Dalacin</nombre>
+		<viaAdministracion>Vaginal</viaAdministracion>
+		<presentacion>Comprimido Vaginal</presentacion>
+		<formato>100 mg x 3 ovulos</formato>
+		<claseMedicamento>Antiinfeccioso genitourinario</claseMedicamento>
+		<indicaciones>Tratar infecciones de los organos sexuales</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>12.96</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>854976</codigoNacional>
+		<nombre>Xylonor</nombre>
+		<viaAdministracion>Topica</viaAdministracion>
+		<presentacion>Spray topico</presentacion>
+		<formato>60ml Aerosol</formato>
+		<claseMedicamento>Anestesico local</claseMedicamento>
+		<indicaciones>Dormir zonas determinadas</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>26.02</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>884858</codigoNacional>
+		<nombre>Ulcesep</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Capsulas</presentacion>
+		<formato>28 capsulas</formato>
+		<claseMedicamento>Antiulceroso</claseMedicamento>
+		<indicaciones>Tratar las ulceras gastrointestinales</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>2.42</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>961763</codigoNacional>
+		<nombre>Yurelax</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Capsulas</presentacion>
+		<formato>30 capsulas</formato>
+		<claseMedicamento>Miorrelajante</claseMedicamento>
+		<indicaciones>Relajar el musculo y aliviar espasmos</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>3.48</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>971671</codigoNacional>
+		<nombre>Xazal</nombre>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>5 mg x 20 comprimidos</formato>
+		<claseMedicamento>Antihistaminico</claseMedicamento>
+		<indicaciones>Tratar ciertos tipos de alergias</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>5.9</pvp>
+	</MEDICAMENTO>
+
+	<MEDICAMENTO>
+		<codigoNacional>993667</codigoNacional>
+		<nombre>Hemicraneal</nombre>
+		<viaAdministracion>Rectal</viaAdministracion>
+		<presentacion>Supositorios</presentacion>
+		<formato>10 supositorios</formato>
+		<claseMedicamento>Antimigranoso</claseMedicamento>
+		<indicaciones>Aliviar los ataques de jaqueca o migrana</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>3.53</pvp>
+	</MEDICAMENTO>
+</MEDICAMENTOS>

@@ -1,0 +1,1362 @@
+<MEDICAMENTOS-PRINCIPIOSACTIVOS>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>600000</codigoNacional>
+		<nombreMed>Amoxicilnica Clav</nombreMed>
+		<viaAdministracion>Intravenosa</viaAdministracion>
+		<presentacion>Viales</presentacion>
+		<formato>500/50mg x100 viales</formato>
+		<claseMedicamento>Antibiotico sistemico</claseMedicamento>
+		<indicaciones>Tratar ciertas infecciones</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>8.24</pvp>
+		<nombrePA>Acido clavulanico</nombrePA>
+		<pesoMolecular>199.16</pesoMolecular>
+		<formulaMolecular>C8 H9 N O5</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>600000</codigoNacional>
+		<nombreMed>Amoxicilnica Clav</nombreMed>
+		<viaAdministracion>Intravenosa</viaAdministracion>
+		<presentacion>Viales</presentacion>
+		<formato>500/50mg x100 viales</formato>
+		<claseMedicamento>Antibiotico sistemico</claseMedicamento>
+		<indicaciones>Tratar ciertas infecciones</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>8.24</pvp>
+		<nombrePA>Amoxicilina</nombrePA>
+		<pesoMolecular>365.4</pesoMolecular>
+		<formulaMolecular>C16 H19 N3 O5 S</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>603029</codigoNacional>
+		<nombreMed>Zaldiar</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>37.5/325mg x100 comp</formato>
+		<claseMedicamento>Analgesico</claseMedicamento>
+		<indicaciones>Aliviar el dolor</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>3.34</pvp>
+		<nombrePA>Paracetamol</nombrePA>
+		<pesoMolecular>151.16</pesoMolecular>
+		<formulaMolecular>C8 H9 N O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>603029</codigoNacional>
+		<nombreMed>Zaldiar</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>37.5/325mg x100 comp</formato>
+		<claseMedicamento>Analgesico</claseMedicamento>
+		<indicaciones>Aliviar el dolor</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>3.34</pvp>
+		<nombrePA>Tramadol</nombrePA>
+		<pesoMolecular>263.38</pesoMolecular>
+		<formulaMolecular>C16 H25 N O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>603173</codigoNacional>
+		<nombreMed>Parapres Forte</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>32/25 mg 300 comp</formato>
+		<claseMedicamento>Diuretico y Antihipertensivo</claseMedicamento>
+		<indicaciones>Aumenta la cantidad de orina , ayudando a regular la presion sanguinea</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>20.95</pvp>
+		<nombrePA>Candesartan</nombrePA>
+		<pesoMolecular>440.5</pesoMolecular>
+		<formulaMolecular>C24 H20 N6 O3</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>603173</codigoNacional>
+		<nombreMed>Parapres Forte</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>32/25 mg 300 comp</formato>
+		<claseMedicamento>Diuretico y Antihipertensivo</claseMedicamento>
+		<indicaciones>Aumenta la cantidad de orina , ayudando a regular la presion sanguinea</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>20.95</pvp>
+		<nombrePA>Hidroclorotiazida</nombrePA>
+		<pesoMolecular>297.7</pesoMolecular>
+		<formulaMolecular>C7 H8 Cl N3 O4 S2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>604306</codigoNacional>
+		<nombreMed>Nolotil</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Ampollas</presentacion>
+		<formato>5ml x 100 ampollas</formato>
+		<claseMedicamento>Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Disminuye el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>2.14</pvp>
+		<nombrePA>Metamizol</nombrePA>
+		<pesoMolecular>311.36</pesoMolecular>
+		<formulaMolecular>C13 H17 N3 O4 S</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>609909</codigoNacional>
+		<nombreMed>Blastoestimulina</nombreMed>
+		<viaAdministracion>Topica</viaAdministracion>
+		<presentacion>Pomada</presentacion>
+		<formato>150g</formato>
+		<claseMedicamento>Cicatrizante</claseMedicamento>
+		<indicaciones>Favorece la cicatrizacion de las heridas</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>10.33</pvp>
+		<nombrePA>Centella</nombrePA>
+		<pesoMolecular>76.09</pesoMolecular>
+		<formulaMolecular>C3 H8 O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>609909</codigoNacional>
+		<nombreMed>Blastoestimulina</nombreMed>
+		<viaAdministracion>Topica</viaAdministracion>
+		<presentacion>Pomada</presentacion>
+		<formato>150g</formato>
+		<claseMedicamento>Cicatrizante</claseMedicamento>
+		<indicaciones>Favorece la cicatrizacion de las heridas</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>10.33</pvp>
+		<nombrePA>Neomicina</nombrePA>
+		<pesoMolecular>614.644</pesoMolecular>
+		<formulaMolecular>C23 H46 N6 O13</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>619510</codigoNacional>
+		<nombreMed>Cristalmina</nombreMed>
+		<viaAdministracion>Topica</viaAdministracion>
+		<presentacion>Solucion topica</presentacion>
+		<formato>125 ml x 30 frascos</formato>
+		<claseMedicamento>Antiseptico</claseMedicamento>
+		<indicaciones>Prevenir y tratar infecciones de la piel y heridas</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>10.75</pvp>
+		<nombrePA>Clorhexidina</nombrePA>
+		<pesoMolecular>505.447</pesoMolecular>
+		<formulaMolecular>C22 H30 N10 Cl2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>650097</codigoNacional>
+		<nombreMed>Dolviran</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>20 comp</formato>
+		<claseMedicamento>Analgesico, Antiinflamatrio, Antipiretico</claseMedicamento>
+		<indicaciones>Disminuye el dolor, la inflamacion y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>1.74</pvp>
+		<nombrePA>Acido acetilsalicilico</nombrePA>
+		<pesoMolecular>180.16</pesoMolecular>
+		<formulaMolecular>C9 H8 O4</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>650097</codigoNacional>
+		<nombreMed>Dolviran</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>20 comp</formato>
+		<claseMedicamento>Analgesico, Antiinflamatrio, Antipiretico</claseMedicamento>
+		<indicaciones>Disminuye el dolor, la inflamacion y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>1.74</pvp>
+		<nombrePA>Cafeina</nombrePA>
+		<pesoMolecular>194.19</pesoMolecular>
+		<formulaMolecular>C8 H10 N4 O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>650097</codigoNacional>
+		<nombreMed>Dolviran</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>20 comp</formato>
+		<claseMedicamento>Analgesico, Antiinflamatrio, Antipiretico</claseMedicamento>
+		<indicaciones>Disminuye el dolor, la inflamacion y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>1.74</pvp>
+		<nombrePA>Codeina</nombrePA>
+		<pesoMolecular>299.364</pesoMolecular>
+		<formulaMolecular>C18 H21 N O3</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>650427</codigoNacional>
+		<nombreMed>Acetilcisteina</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>30 sobres</formato>
+		<claseMedicamento>Expectorante y/o Mucolitico</claseMedicamento>
+		<indicaciones>Facilita la expulsion de moco desde las vias respiratorias</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>5.15</pvp>
+		<nombrePA>Acetilcisteina</nombrePA>
+		<pesoMolecular>163.2</pesoMolecular>
+		<formulaMolecular>C5 H9 N O3 S</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>650902</codigoNacional>
+		<nombreMed>Anticatarral</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>20 sobres</formato>
+		<claseMedicamento>Antigripal, Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>9.99</pvp>
+		<nombrePA>Clorfenamina</nombrePA>
+		<pesoMolecular>274.79</pesoMolecular>
+		<formulaMolecular>C16 H19 Cl N2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>650902</codigoNacional>
+		<nombreMed>Anticatarral</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>20 sobres</formato>
+		<claseMedicamento>Antigripal, Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>9.99</pvp>
+		<nombrePA>Fenilefrina</nombrePA>
+		<pesoMolecular>167.2</pesoMolecular>
+		<formulaMolecular>C9 H13 N O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>650902</codigoNacional>
+		<nombreMed>Anticatarral</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>20 sobres</formato>
+		<claseMedicamento>Antigripal, Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>9.99</pvp>
+		<nombrePA>Paracetamol</nombrePA>
+		<pesoMolecular>151.16</pesoMolecular>
+		<formulaMolecular>C8 H9 N O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>650999</codigoNacional>
+		<nombreMed>Co Vals Forte</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>160/25 mg 28 comp</formato>
+		<claseMedicamento>Diuretico y Antihipertensivo</claseMedicamento>
+		<indicaciones>Aumenta la cantidad de orina , ayudando a regular la presion sanguinea</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>11.99</pvp>
+		<nombrePA>Hidroclorotiazida</nombrePA>
+		<pesoMolecular>297.7</pesoMolecular>
+		<formulaMolecular>C7 H8 Cl N3 O4 S2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>650999</codigoNacional>
+		<nombreMed>Co Vals Forte</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>160/25 mg 28 comp</formato>
+		<claseMedicamento>Diuretico y Antihipertensivo</claseMedicamento>
+		<indicaciones>Aumenta la cantidad de orina , ayudando a regular la presion sanguinea</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>11.99</pvp>
+		<nombrePA>Valsartan</nombrePA>
+		<pesoMolecular>435.5</pesoMolecular>
+		<formulaMolecular>C24 H29 N5 O3</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>651877</codigoNacional>
+		<nombreMed>Aspirina C</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos efervescentes</presentacion>
+		<formato>(400 mg / 240 mg) x 20 comp</formato>
+		<claseMedicamento>Analgesico, Antiinflamatorio y Antipiretico</claseMedicamento>
+		<indicaciones>Disminuye el dolor, la inflamacion y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>5.36</pvp>
+		<nombrePA>Acido acetilsalicilico</nombrePA>
+		<pesoMolecular>180.16</pesoMolecular>
+		<formulaMolecular>C9 H8 O4</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>651877</codigoNacional>
+		<nombreMed>Aspirina C</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos efervescentes</presentacion>
+		<formato>(400 mg / 240 mg) x 20 comp</formato>
+		<claseMedicamento>Analgesico, Antiinflamatorio y Antipiretico</claseMedicamento>
+		<indicaciones>Disminuye el dolor, la inflamacion y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>5.36</pvp>
+		<nombrePA>Acido ascorbico</nombrePA>
+		<pesoMolecular>176.12</pesoMolecular>
+		<formulaMolecular>C6 H8 O6</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>651943</codigoNacional>
+		<nombreMed>Flodermol</nombreMed>
+		<viaAdministracion>Topica</viaAdministracion>
+		<presentacion>Pomada</presentacion>
+		<formato>Pomada 60 g</formato>
+		<claseMedicamento>Corticoide topico y antiinfeccioso</claseMedicamento>
+		<indicaciones>Tratar las inflamaciones de la piel y para combatir las infecciones</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>12.3</pvp>
+		<nombrePA>Fluocinolona</nombrePA>
+		<pesoMolecular>452.488</pesoMolecular>
+		<formulaMolecular>C24 H30 F2 O6</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>651943</codigoNacional>
+		<nombreMed>Flodermol</nombreMed>
+		<viaAdministracion>Topica</viaAdministracion>
+		<presentacion>Pomada</presentacion>
+		<formato>Pomada 60 g</formato>
+		<claseMedicamento>Corticoide topico y antiinfeccioso</claseMedicamento>
+		<indicaciones>Tratar las inflamaciones de la piel y para combatir las infecciones</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>12.3</pvp>
+		<nombrePA>Gramicidina</nombrePA>
+		<pesoMolecular>452.488</pesoMolecular>
+		<formulaMolecular>C99 H140 N20 O17</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>651943</codigoNacional>
+		<nombreMed>Flodermol</nombreMed>
+		<viaAdministracion>Topica</viaAdministracion>
+		<presentacion>Pomada</presentacion>
+		<formato>Pomada 60 g</formato>
+		<claseMedicamento>Corticoide topico y antiinfeccioso</claseMedicamento>
+		<indicaciones>Tratar las inflamaciones de la piel y para combatir las infecciones</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>12.3</pvp>
+		<nombrePA>Neomicina</nombrePA>
+		<pesoMolecular>614.644</pesoMolecular>
+		<formulaMolecular>C23 H46 N6 O13</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>652319</codigoNacional>
+		<nombreMed>Aciclovir</nombreMed>
+		<viaAdministracion>Topica</viaAdministracion>
+		<presentacion>Crema</presentacion>
+		<formato>Crema 15 g</formato>
+		<claseMedicamento>Antiviral topico</claseMedicamento>
+		<indicaciones>Tratar infecciones producidas por virus</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>3.43</pvp>
+		<nombrePA>Aciclovir</nombrePA>
+		<pesoMolecular>225.2</pesoMolecular>
+		<formulaMolecular>C8 H11 N5 O3</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>653899</codigoNacional>
+		<nombreMed>Bucometasana</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>30 comp</formato>
+		<claseMedicamento>Antiinfeccioso faringeo</claseMedicamento>
+		<indicaciones>Tratar infecciones de la garganta</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>7.35</pvp>
+		<nombrePA>Benzocaina</nombrePA>
+		<pesoMolecular>165.19</pesoMolecular>
+		<formulaMolecular>C9 H11 N O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>653899</codigoNacional>
+		<nombreMed>Bucometasana</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>30 comp</formato>
+		<claseMedicamento>Antiinfeccioso faringeo</claseMedicamento>
+		<indicaciones>Tratar infecciones de la garganta</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>7.35</pvp>
+		<nombrePA>Clorhexidina</nombrePA>
+		<pesoMolecular>505.447</pesoMolecular>
+		<formulaMolecular>C22 H30 N10 Cl2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>653899</codigoNacional>
+		<nombreMed>Bucometasana</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>30 comp</formato>
+		<claseMedicamento>Antiinfeccioso faringeo</claseMedicamento>
+		<indicaciones>Tratar infecciones de la garganta</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>7.35</pvp>
+		<nombrePA>Tirotricina</nombrePA>
+		<pesoMolecular>1228.46</pesoMolecular>
+		<formulaMolecular>C65 H85 N11 O13</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>654139</codigoNacional>
+		<nombreMed>OpenVas Plus</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos recubiertos</presentacion>
+		<formato>20/25 mg 28 comp</formato>
+		<claseMedicamento>Diuretico y Antihipertensivo</claseMedicamento>
+		<indicaciones>Aumenta la cantidad de orina , ayudando a regular la presion sanguinea</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>10.1</pvp>
+		<nombrePA>Hidroclorotiazida</nombrePA>
+		<pesoMolecular>297.7</pesoMolecular>
+		<formulaMolecular>C7 H8 Cl N3 O4 S2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>654139</codigoNacional>
+		<nombreMed>OpenVas Plus</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos recubiertos</presentacion>
+		<formato>20/25 mg 28 comp</formato>
+		<claseMedicamento>Diuretico y Antihipertensivo</claseMedicamento>
+		<indicaciones>Aumenta la cantidad de orina , ayudando a regular la presion sanguinea</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>10.1</pvp>
+		<nombrePA>Olmesartan</nombrePA>
+		<pesoMolecular>446.5</pesoMolecular>
+		<formulaMolecular>C24 H26 N6 O3</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>655449</codigoNacional>
+		<nombreMed>Paidoterin</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Jarabe</presentacion>
+		<formato>100ml</formato>
+		<claseMedicamento>Descongestionante nasal</claseMedicamento>
+		<indicaciones>Alivar la congestion nasal</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>5.09</pvp>
+		<nombrePA>Clorfenamina</nombrePA>
+		<pesoMolecular>274.79</pesoMolecular>
+		<formulaMolecular>C16 H19 Cl N2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>655449</codigoNacional>
+		<nombreMed>Paidoterin</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Jarabe</presentacion>
+		<formato>100ml</formato>
+		<claseMedicamento>Descongestionante nasal</claseMedicamento>
+		<indicaciones>Alivar la congestion nasal</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>5.09</pvp>
+		<nombrePA>Difenhidramina</nombrePA>
+		<pesoMolecular>255.35</pesoMolecular>
+		<formulaMolecular>C17 H21 N O</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>655449</codigoNacional>
+		<nombreMed>Paidoterin</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Jarabe</presentacion>
+		<formato>100ml</formato>
+		<claseMedicamento>Descongestionante nasal</claseMedicamento>
+		<indicaciones>Alivar la congestion nasal</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>5.09</pvp>
+		<nombrePA>Fenilefrina</nombrePA>
+		<pesoMolecular>167.2</pesoMolecular>
+		<formulaMolecular>C9 H13 N O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>655917</codigoNacional>
+		<nombreMed>Yasminelle</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>3 mg x comp</formato>
+		<claseMedicamento>Anticonceptivo</claseMedicamento>
+		<indicaciones>Evitar quedar embarazada</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>17.95</pvp>
+		<nombrePA>Drospirenona</nombrePA>
+		<pesoMolecular>366.5</pesoMolecular>
+		<formulaMolecular>C24 H30 O3</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>655917</codigoNacional>
+		<nombreMed>Yasminelle</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>3 mg x comp</formato>
+		<claseMedicamento>Anticonceptivo</claseMedicamento>
+		<indicaciones>Evitar quedar embarazada</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>17.95</pvp>
+		<nombrePA>Etinilestradiol</nombrePA>
+		<pesoMolecular>296.4</pesoMolecular>
+		<formulaMolecular>C20 H24 O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>656011</codigoNacional>
+		<nombreMed>Fricold</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>10 sobres</formato>
+		<claseMedicamento>Antigripal, Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>6.95</pvp>
+		<nombrePA>Clorfenamina</nombrePA>
+		<pesoMolecular>274.79</pesoMolecular>
+		<formulaMolecular>C16 H19 Cl N2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>656011</codigoNacional>
+		<nombreMed>Fricold</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>10 sobres</formato>
+		<claseMedicamento>Antigripal, Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>6.95</pvp>
+		<nombrePA>Fenilefrina</nombrePA>
+		<pesoMolecular>167.2</pesoMolecular>
+		<formulaMolecular>C9 H13 N O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>656011</codigoNacional>
+		<nombreMed>Fricold</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>10 sobres</formato>
+		<claseMedicamento>Antigripal, Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>6.95</pvp>
+		<nombrePA>Paracetamol</nombrePA>
+		<pesoMolecular>151.16</pesoMolecular>
+		<formulaMolecular>C8 H9 N O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>659700</codigoNacional>
+		<nombreMed>Intergrip</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>10 sobres</formato>
+		<claseMedicamento>Antigripal, Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>8.51</pvp>
+		<nombrePA>Cafeina</nombrePA>
+		<pesoMolecular>194.19</pesoMolecular>
+		<formulaMolecular>C8 H10 N4 O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>659700</codigoNacional>
+		<nombreMed>Intergrip</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>10 sobres</formato>
+		<claseMedicamento>Antigripal, Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>8.51</pvp>
+		<nombrePA>Clorfenamina</nombrePA>
+		<pesoMolecular>274.79</pesoMolecular>
+		<formulaMolecular>C16 H19 Cl N2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>659700</codigoNacional>
+		<nombreMed>Intergrip</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>10 sobres</formato>
+		<claseMedicamento>Antigripal, Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>8.51</pvp>
+		<nombrePA>Paracetamol</nombrePA>
+		<pesoMolecular>151.16</pesoMolecular>
+		<formulaMolecular>C8 H9 N O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>659725</codigoNacional>
+		<nombreMed>Cinfamar</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>50/50 mg 4 comp</formato>
+		<claseMedicamento>Mareo cinetico</claseMedicamento>
+		<indicaciones>Evitar nauseas y vomitos producidos por el movimiento</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>4.33</pvp>
+		<nombrePA>Cafeina</nombrePA>
+		<pesoMolecular>194.19</pesoMolecular>
+		<formulaMolecular>C8 H10 N4 O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>659725</codigoNacional>
+		<nombreMed>Cinfamar</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>50/50 mg 4 comp</formato>
+		<claseMedicamento>Mareo cinetico</claseMedicamento>
+		<indicaciones>Evitar nauseas y vomitos producidos por el movimiento</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>4.33</pvp>
+		<nombrePA>Dimenhidrinato</nombrePA>
+		<pesoMolecular>470</pesoMolecular>
+		<formulaMolecular>C24 H28 Cl N5 O3</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>659730</codigoNacional>
+		<nombreMed>Valium</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>2 mg x 30 comp</formato>
+		<claseMedicamento>Ansiolitico e hipnotico</claseMedicamento>
+		<indicaciones>Aliviar el nerviosismo o ansiedad y facilitar el sueno</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>1.5</pvp>
+		<nombrePA>Diazepan</nombrePA>
+		<pesoMolecular>284.7</pesoMolecular>
+		<formulaMolecular>C16 H13 N2 Cl O</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>659777</codigoNacional>
+		<nombreMed>Aceclofenaco</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>100 mg x 20 comp</formato>
+		<claseMedicamento>Analgesico, Antiinflamatorio, Antipiretico</claseMedicamento>
+		<indicaciones>Disminuye el dolor, la inflamacion y la fiebre</indicaciones>
+		<comercializacion>0</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>2.83</pvp>
+		<nombrePA>Aceclofenaco</nombrePA>
+		<pesoMolecular>354.2</pesoMolecular>
+		<formulaMolecular>C16 H13 Cl2 N O4</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>660286</codigoNacional>
+		<nombreMed>Fluimocil Forte</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos efervescentes</presentacion>
+		<formato>500/200mg x12 comp</formato>
+		<claseMedicamento>Antigripal, Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>8.5</pvp>
+		<nombrePA>Acetilcisteina</nombrePA>
+		<pesoMolecular>163.2</pesoMolecular>
+		<formulaMolecular>C5 H9 N O3 S</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>660286</codigoNacional>
+		<nombreMed>Fluimocil Forte</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos efervescentes</presentacion>
+		<formato>500/200mg x12 comp</formato>
+		<claseMedicamento>Antigripal, Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>8.5</pvp>
+		<nombrePA>Paracetamol</nombrePA>
+		<pesoMolecular>151.16</pesoMolecular>
+		<formulaMolecular>C8 H9 N O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>664347</codigoNacional>
+		<nombreMed>Respibien antialergico</nombreMed>
+		<viaAdministracion>Nasal</viaAdministracion>
+		<presentacion>Nebulizador Nasal</presentacion>
+		<formato>Recipiente 15 ml</formato>
+		<claseMedicamento>Descongestionante nasal</claseMedicamento>
+		<indicaciones>Alivia la congestion de la nariz facilitando la respiracion</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>6.1</pvp>
+		<nombrePA>Clorfenamina</nombrePA>
+		<pesoMolecular>274.79</pesoMolecular>
+		<formulaMolecular>C16 H19 Cl N2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>664347</codigoNacional>
+		<nombreMed>Respibien antialergico</nombreMed>
+		<viaAdministracion>Nasal</viaAdministracion>
+		<presentacion>Nebulizador Nasal</presentacion>
+		<formato>Recipiente 15 ml</formato>
+		<claseMedicamento>Descongestionante nasal</claseMedicamento>
+		<indicaciones>Alivia la congestion de la nariz facilitando la respiracion</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>6.1</pvp>
+		<nombrePA>Oximetazolina</nombrePA>
+		<pesoMolecular>260.375</pesoMolecular>
+		<formulaMolecular>C16 H24 N2 O</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>669887</codigoNacional>
+		<nombreMed>Futox</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Jarabe</presentacion>
+		<formato>200ml</formato>
+		<claseMedicamento>Antitusigeno</claseMedicamento>
+		<indicaciones>Calmar la tos</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>6.8</pvp>
+		<nombrePA>Cloperastina</nombrePA>
+		<pesoMolecular>329.9</pesoMolecular>
+		<formulaMolecular>C20 H24 Cl N O</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>672527</codigoNacional>
+		<nombreMed>Ultiva</nombreMed>
+		<viaAdministracion>Intravenosa</viaAdministracion>
+		<presentacion>Viales</presentacion>
+		<formato>3 ml x 5 viales</formato>
+		<claseMedicamento>Anestesico general</claseMedicamento>
+		<indicaciones>Anestesiar en intervenciones quirurjicas</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>48.24</pvp>
+		<nombrePA>Remifentanilo</nombrePA>
+		<pesoMolecular>376.4</pesoMolecular>
+		<formulaMolecular>C20 H28 N2 O5</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>677276</codigoNacional>
+		<nombreMed>Manidipino</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>20 mg x 28 comp</formato>
+		<claseMedicamento>Vasodilatador coronario, Antihipertensivo</claseMedicamento>
+		<indicaciones>Dilatar los vasos sanguineos</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>14.17</pvp>
+		<nombrePA>Manidipino</nombrePA>
+		<pesoMolecular>610.7</pesoMolecular>
+		<formulaMolecular>C35 H38 N4 O6</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>677765</codigoNacional>
+		<nombreMed>Nimbex</nombreMed>
+		<viaAdministracion>Intravenosa</viaAdministracion>
+		<presentacion>Ampollas</presentacion>
+		<formato>2mg x 5 ampollas</formato>
+		<claseMedicamento>Curares endovenosos</claseMedicamento>
+		<indicaciones>Facilita intubaciones y relaja los musculos en anestesias generales</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>237.71</pvp>
+		<nombrePA>Besilato De Cisatracurio</nombrePA>
+		<pesoMolecular>1243.5</pesoMolecular>
+		<formulaMolecular>C65 H82 N2 O18 S2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>681726</codigoNacional>
+		<nombreMed>Abelcet</nombreMed>
+		<viaAdministracion>Intravenosa</viaAdministracion>
+		<presentacion>Viales</presentacion>
+		<formato>10 viales 20 ml</formato>
+		<claseMedicamento>Antibiotico</claseMedicamento>
+		<indicaciones>Tratar infecciones producidas por hongos</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>516.16</pvp>
+		<nombrePA>Amfotericina B</nombrePA>
+		<pesoMolecular>924.1</pesoMolecular>
+		<formulaMolecular>C47 H73 N O17</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>681817</codigoNacional>
+		<nombreMed>Frenadol Forte</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>10 sobres</formato>
+		<claseMedicamento>Analgesico, Antigripal y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>4.95</pvp>
+		<nombrePA>Clorfenamina</nombrePA>
+		<pesoMolecular>274.79</pesoMolecular>
+		<formulaMolecular>C16 H19 Cl N2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>681817</codigoNacional>
+		<nombreMed>Frenadol Forte</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>10 sobres</formato>
+		<claseMedicamento>Analgesico, Antigripal y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>4.95</pvp>
+		<nombrePA>Dextrometorfano</nombrePA>
+		<pesoMolecular>271.4</pesoMolecular>
+		<formulaMolecular>C18 H25 N O</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>681817</codigoNacional>
+		<nombreMed>Frenadol Forte</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>10 sobres</formato>
+		<claseMedicamento>Analgesico, Antigripal y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>4.95</pvp>
+		<nombrePA>Paracetamol</nombrePA>
+		<pesoMolecular>151.16</pesoMolecular>
+		<formulaMolecular>C8 H9 N O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>702151</codigoNacional>
+		<nombreMed>Couldina con paracetamol</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos efervescentes</presentacion>
+		<formato>650 mg x 20 comp</formato>
+		<claseMedicamento>Antigripal</claseMedicamento>
+		<indicaciones>Aliviar la gripe disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>10.51</pvp>
+		<nombrePA>Clorfenamina</nombrePA>
+		<pesoMolecular>274.79</pesoMolecular>
+		<formulaMolecular>C16 H19 Cl N2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>702151</codigoNacional>
+		<nombreMed>Couldina con paracetamol</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos efervescentes</presentacion>
+		<formato>650 mg x 20 comp</formato>
+		<claseMedicamento>Antigripal</claseMedicamento>
+		<indicaciones>Aliviar la gripe disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>10.51</pvp>
+		<nombrePA>Fenilefrina</nombrePA>
+		<pesoMolecular>167.2</pesoMolecular>
+		<formulaMolecular>C9 H13 N O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>702151</codigoNacional>
+		<nombreMed>Couldina con paracetamol</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos efervescentes</presentacion>
+		<formato>650 mg x 20 comp</formato>
+		<claseMedicamento>Antigripal</claseMedicamento>
+		<indicaciones>Aliviar la gripe disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>10.51</pvp>
+		<nombrePA>Paracetamol</nombrePA>
+		<pesoMolecular>151.16</pesoMolecular>
+		<formulaMolecular>C8 H9 N O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>703223</codigoNacional>
+		<nombreMed>Alergical</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Jarabe</presentacion>
+		<formato>150ml</formato>
+		<claseMedicamento>Antigripal, Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>7.34</pvp>
+		<nombrePA>Clorfenamina</nombrePA>
+		<pesoMolecular>274.79</pesoMolecular>
+		<formulaMolecular>C16 H19 Cl N2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>703223</codigoNacional>
+		<nombreMed>Alergical</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Jarabe</presentacion>
+		<formato>150ml</formato>
+		<claseMedicamento>Antigripal, Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>7.34</pvp>
+		<nombrePA>Diprofilina</nombrePA>
+		<pesoMolecular>254.24</pesoMolecular>
+		<formulaMolecular>C10 H14 N4 O4</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>703223</codigoNacional>
+		<nombreMed>Alergical</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Jarabe</presentacion>
+		<formato>150ml</formato>
+		<claseMedicamento>Antigripal, Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>7.34</pvp>
+		<nombrePA>Guaifenesina</nombrePA>
+		<pesoMolecular>198.22</pesoMolecular>
+		<formulaMolecular>C10 H14 O4</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>703223</codigoNacional>
+		<nombreMed>Alergical</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Jarabe</presentacion>
+		<formato>150ml</formato>
+		<claseMedicamento>Antigripal, Analgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe, disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>7.34</pvp>
+		<nombrePA>Paracetamol</nombrePA>
+		<pesoMolecular>151.16</pesoMolecular>
+		<formulaMolecular>C8 H9 N O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>711033</codigoNacional>
+		<nombreMed>Enanplus</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos recubiertos</presentacion>
+		<formato>(75mg / 25mg) x 20 comp</formato>
+		<claseMedicamento>Analgesico</claseMedicamento>
+		<indicaciones>Aliviar el dolor</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>7.1</pvp>
+		<nombrePA>Dexketopofreno</nombrePA>
+		<pesoMolecular>254.28</pesoMolecular>
+		<formulaMolecular>C16 H14 O3</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>711033</codigoNacional>
+		<nombreMed>Enanplus</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos recubiertos</presentacion>
+		<formato>(75mg / 25mg) x 20 comp</formato>
+		<claseMedicamento>Analgesico</claseMedicamento>
+		<indicaciones>Aliviar el dolor</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>7.1</pvp>
+		<nombrePA>Tramadol</nombrePA>
+		<pesoMolecular>263.38</pesoMolecular>
+		<formulaMolecular>C16 H25 N O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>712072</codigoNacional>
+		<nombreMed>Zepatier</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>(50mg / 100 mg) x 28 comp</formato>
+		<claseMedicamento>Antiviral</claseMedicamento>
+		<indicaciones>Tratar la infeccion producida por el virus de la hepatitis C</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>220</pvp>
+		<nombrePA>Elbasvir</nombrePA>
+		<pesoMolecular>882.015</pesoMolecular>
+		<formulaMolecular>C49 H55 N9 O7</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>712072</codigoNacional>
+		<nombreMed>Zepatier</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos</presentacion>
+		<formato>(50mg / 100 mg) x 28 comp</formato>
+		<claseMedicamento>Antiviral</claseMedicamento>
+		<indicaciones>Tratar la infeccion producida por el virus de la hepatitis C</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>220</pvp>
+		<nombrePA>Grazoprevir</nombrePA>
+		<pesoMolecular>766.9</pesoMolecular>
+		<formulaMolecular>C38 H50 N6 O9 S</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>714852</codigoNacional>
+		<nombreMed>Carevalan</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos recubiertos</presentacion>
+		<formato>(12.5mg / 5mg) x 56 comp</formato>
+		<claseMedicamento>Antianginoso y antiarritmico</claseMedicamento>
+		<indicaciones>Previene la angina de pecho y regula el ritmo del corazon</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>15.87</pvp>
+		<nombrePA>Carvedilol</nombrePA>
+		<pesoMolecular>406.474</pesoMolecular>
+		<formulaMolecular>C24 H26 N2 O4</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>714852</codigoNacional>
+		<nombreMed>Carevalan</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Comprimidos recubiertos</presentacion>
+		<formato>(12.5mg / 5mg) x 56 comp</formato>
+		<claseMedicamento>Antianginoso y antiarritmico</claseMedicamento>
+		<indicaciones>Previene la angina de pecho y regula el ritmo del corazon</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>15.87</pvp>
+		<nombrePA>Ivabradina</nombrePA>
+		<pesoMolecular>468.585</pesoMolecular>
+		<formulaMolecular>C27 H36 N2 O5</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>741512</codigoNacional>
+		<nombreMed>Algidol</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>(650 mg / 10 mg / 500 mg) x 12 sobres</formato>
+		<claseMedicamento>Analgesico y antipiretico</claseMedicamento>
+		<indicaciones>Aliviar el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>3.12</pvp>
+		<nombrePA>Codeina</nombrePA>
+		<pesoMolecular>299.364</pesoMolecular>
+		<formulaMolecular>C18 H21 N O3</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>741512</codigoNacional>
+		<nombreMed>Algidol</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>(650 mg / 10 mg / 500 mg) x 12 sobres</formato>
+		<claseMedicamento>Analgesico y antipiretico</claseMedicamento>
+		<indicaciones>Aliviar el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>3.12</pvp>
+		<nombrePA>Paracetamol</nombrePA>
+		<pesoMolecular>151.16</pesoMolecular>
+		<formulaMolecular>C8 H9 N O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>766824</codigoNacional>
+		<nombreMed>Hadensa</nombreMed>
+		<viaAdministracion>Rectal</viaAdministracion>
+		<presentacion>Supositorios</presentacion>
+		<formato>10 supositorios</formato>
+		<claseMedicamento>Antihemorroidal</claseMedicamento>
+		<indicaciones>Curar las hemorroides</indicaciones>
+		<comercializacion>0</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>5.76</pvp>
+		<nombrePA>Clorocarvacrol</nombrePA>
+		<pesoMolecular>184.66</pesoMolecular>
+		<formulaMolecular>C10 H13 Cl O</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>766824</codigoNacional>
+		<nombreMed>Hadensa</nombreMed>
+		<viaAdministracion>Rectal</viaAdministracion>
+		<presentacion>Supositorios</presentacion>
+		<formato>10 supositorios</formato>
+		<claseMedicamento>Antihemorroidal</claseMedicamento>
+		<indicaciones>Curar las hemorroides</indicaciones>
+		<comercializacion>0</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>5.76</pvp>
+		<nombrePA>Ictamol</nombrePA>
+		<pesoMolecular>588</pesoMolecular>
+		<formulaMolecular>C28 H36 S5 O6 (NH4)2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>766824</codigoNacional>
+		<nombreMed>Hadensa</nombreMed>
+		<viaAdministracion>Rectal</viaAdministracion>
+		<presentacion>Supositorios</presentacion>
+		<formato>10 supositorios</formato>
+		<claseMedicamento>Antihemorroidal</claseMedicamento>
+		<indicaciones>Curar las hemorroides</indicaciones>
+		<comercializacion>0</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>5.76</pvp>
+		<nombrePA>Mentol</nombrePA>
+		<pesoMolecular>156.26</pesoMolecular>
+		<formulaMolecular>C10 H20 O</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>825992</codigoNacional>
+		<nombreMed>Dolorac</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>600mg x 20 sob</formato>
+		<claseMedicamento>Analgesico, Antiinflamatorio, Antipiretico y Antirreumetico</claseMedicamento>
+		<indicaciones>Disminuye el dolor, la inflamacion, la fiebre y reuma</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>7.24</pvp>
+		<nombrePA>Ibuprofeno</nombrePA>
+		<pesoMolecular>206.29</pesoMolecular>
+		<formulaMolecular>C13 H18 O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>839720</codigoNacional>
+		<nombreMed>Gelocatil</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>10 Sobres</formato>
+		<claseMedicamento>Antigripal, Antianalgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe y para disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>4.95</pvp>
+		<nombrePA>Clorfenamina</nombrePA>
+		<pesoMolecular>274.79</pesoMolecular>
+		<formulaMolecular>C16 H19 Cl N2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>839720</codigoNacional>
+		<nombreMed>Gelocatil</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Sobres</presentacion>
+		<formato>10 Sobres</formato>
+		<claseMedicamento>Antigripal, Antianalgesico y Antipiretico</claseMedicamento>
+		<indicaciones>Aliviar la gripe y para disminuir el dolor y la fiebre</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>4.95</pvp>
+		<nombrePA>Paracetamol</nombrePA>
+		<pesoMolecular>151.16</pesoMolecular>
+		<formulaMolecular>C8 H9 N O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>851568</codigoNacional>
+		<nombreMed>Dalacin</nombreMed>
+		<viaAdministracion>Vaginal</viaAdministracion>
+		<presentacion>Comprimido Vaginal</presentacion>
+		<formato>100 mg x 3 ovulos</formato>
+		<claseMedicamento>Antiinfeccioso genitourinario</claseMedicamento>
+		<indicaciones>Tratar infecciones de los organos sexuales</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>12.96</pvp>
+		<nombrePA>Clindamicina</nombrePA>
+		<pesoMolecular>425</pesoMolecular>
+		<formulaMolecular>C18 H33 Cl N2 O5 S</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>854976</codigoNacional>
+		<nombreMed>Xylonor</nombreMed>
+		<viaAdministracion>Topica</viaAdministracion>
+		<presentacion>Spray topico</presentacion>
+		<formato>60ml Aerosol</formato>
+		<claseMedicamento>Anestesico local</claseMedicamento>
+		<indicaciones>Dormir zonas determinadas</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>26.02</pvp>
+		<nombrePA>Cetrimonio</nombrePA>
+		<pesoMolecular>364.4</pesoMolecular>
+		<formulaMolecular>C19 H42 BrN</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>854976</codigoNacional>
+		<nombreMed>Xylonor</nombreMed>
+		<viaAdministracion>Topica</viaAdministracion>
+		<presentacion>Spray topico</presentacion>
+		<formato>60ml Aerosol</formato>
+		<claseMedicamento>Anestesico local</claseMedicamento>
+		<indicaciones>Dormir zonas determinadas</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>0</prescripcionMedica>
+		<pvp>26.02</pvp>
+		<nombrePA>Lidocaina</nombrePA>
+		<pesoMolecular>270.8</pesoMolecular>
+		<formulaMolecular>C14 H23 Cl N2 O</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>884858</codigoNacional>
+		<nombreMed>Ulcesep</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Capsulas</presentacion>
+		<formato>28 capsulas</formato>
+		<claseMedicamento>Antiulceroso</claseMedicamento>
+		<indicaciones>Tratar las ulceras gastrointestinales</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>2.42</pvp>
+		<nombrePA>Omeprazol</nombrePA>
+		<pesoMolecular>345.4</pesoMolecular>
+		<formulaMolecular>C17 H19 N3 O3 S</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>961763</codigoNacional>
+		<nombreMed>Yurelax</nombreMed>
+		<viaAdministracion>Oral</viaAdministracion>
+		<presentacion>Capsulas</presentacion>
+		<formato>30 capsulas</formato>
+		<claseMedicamento>Miorrelajante</claseMedicamento>
+		<indicaciones>Relajar el musculo y aliviar espasmos</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>3.48</pvp>
+		<nombrePA>Ciclobenzaprina</nombrePA>
+		<pesoMolecular>275.4</pesoMolecular>
+		<formulaMolecular>C20 H21 N</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>993667</codigoNacional>
+		<nombreMed>Hemicraneal</nombreMed>
+		<viaAdministracion>Rectal</viaAdministracion>
+		<presentacion>Supositorios</presentacion>
+		<formato>10 supositorios</formato>
+		<claseMedicamento>Antimigranoso</claseMedicamento>
+		<indicaciones>Aliviar los ataques de jaqueca o migrana</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>3.53</pvp>
+		<nombrePA>Cafeina</nombrePA>
+		<pesoMolecular>194.19</pesoMolecular>
+		<formulaMolecular>C8 H10 N4 O2</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+
+	<MEDICAMENTO-PRINCIPIOACTIVO>
+		<codigoNacional>993667</codigoNacional>
+		<nombreMed>Hemicraneal</nombreMed>
+		<viaAdministracion>Rectal</viaAdministracion>
+		<presentacion>Supositorios</presentacion>
+		<formato>10 supositorios</formato>
+		<claseMedicamento>Antimigranoso</claseMedicamento>
+		<indicaciones>Aliviar los ataques de jaqueca o migrana</indicaciones>
+		<comercializacion>1</comercializacion>
+		<prescripcionMedica>1</prescripcionMedica>
+		<pvp>3.53</pvp>
+		<nombrePA>Ergotamina</nombrePA>
+		<pesoMolecular>581.7</pesoMolecular>
+		<formulaMolecular>C33 H35 N5 O5</formulaMolecular>
+	</MEDICAMENTO-PRINCIPIOACTIVO>
+</MEDICAMENTOS-PRINCIPIOSACTIVOS>
